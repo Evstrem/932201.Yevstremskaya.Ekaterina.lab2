@@ -1,0 +1,32 @@
+.block {
+    max-width: 400px;
+	min-width:320px;
+	background:green;   
+    right:0;
+	left:0;
+    margin: auto;
+	font-size:12px;
+	line-height: 1.2em;
+	font-weight:100;
+    color: white;
+	}
+.blocktwo {
+    max-width: 410px;
+	min-width:320px;
+	background:blue;
+    padding:15px;
+	margin-top:20px;
+	border:solid 20px blue;
+    right:0;
+	left:0;
+    margin-right:auto;
+    margin-left:auto;
+	font-size:12px;
+	line-height: 1.2em;
+	font-weight:100;
+    color: white;
+}
+.container{
+	display:flex;
+	flex-direction:column;
+}
